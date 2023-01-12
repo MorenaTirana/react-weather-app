@@ -5,6 +5,11 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
+      <div class="home">
+        <a href="index.html">
+          <img src="/img/home.png" />
+        </a>
+      </div>
       <div className="container">
         <Weather defaultCity="Stockholm" />
         <footer>
