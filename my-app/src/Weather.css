@@ -47,3 +47,7 @@
     line-height: 1;
     top: -34px;
   }
+  .Weather .logo{
+    width:50%;
+    padding-bottom: 10%;
+  }
