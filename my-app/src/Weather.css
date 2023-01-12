@@ -46,6 +46,10 @@
     position: relative;
     line-height: 1;
     top: -34px;
+    text-decoration: none;
+  }
+  .Weather .unit.is-active{
+    text-decoration: none;
   }
   .Weather .logo{
     width:50%;
