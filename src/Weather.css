@@ -57,10 +57,10 @@
   }
   @media(max-width:375px){
     #search-button{
-      background-color: red;
+      background-color: royalblue;
       width: 80px !important;
       height:45px !important;
-      margin-top: -2px !important;
+      margin-top: -3px !important;
       padding-left: -10px !important;
       margin-left: -15px;
 
