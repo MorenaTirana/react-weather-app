@@ -55,3 +55,9 @@
     width:50%;
     padding-bottom: 10%;
   }
+  @media(max-width:375px){
+    #search-button{
+      background-color: red;
+    }
+  }
+  
