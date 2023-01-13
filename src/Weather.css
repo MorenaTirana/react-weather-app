@@ -40,7 +40,7 @@
   }
   
   .Weather .unit {
-    color: rgb(33, 33, 33);
+    color: red;
     font-size: 16px;
     font-weight: 400;
     position: relative;
@@ -48,9 +48,7 @@
     top: -34px;
     text-decoration: none;
   }
-  .Weather .unit.is-active{
-    text-decoration: none;
-  }
+
   .Weather .logo{
     width:50%;
     padding-bottom: 10%;
