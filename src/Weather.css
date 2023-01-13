@@ -61,7 +61,9 @@
       margin-top: -3px !important;
       padding-left: -10px !important;
       margin-left: -15px;
-
+    }
+    #humid-wind{
+      background-color: red;
     }
   }
   
